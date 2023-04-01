@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Little program that simulates a lava lamp in the terminal.
+EAPI=8
+HOMEPAGE=https://github.com/AngelJumbo/lavat
+KEYWORDS=~amd64
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/AngelJumbo/lavat/archive/refs/tags/v2.0.0.tar.gz
+_md5_=938168a8d814a39c01f9728195ff698f
