@@ -9,7 +9,7 @@ SLOT="0"
 KEYWORDS="~amd64"
 
 src_install() {
-	make \
+	emake \
 		PREFIX="${EPREFIX}/usr" \
 		DESTDIR="${D}" \
 		install \
