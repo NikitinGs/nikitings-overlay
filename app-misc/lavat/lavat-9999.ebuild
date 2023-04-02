@@ -4,6 +4,8 @@ DESCRIPTION="Little program that simulates a lava lamp in the terminal."
 HOMEPAGE="https://github.com/AngelJumbo/lavat"
 EGIT_REPO_URI="https://github.com/AngelJumbo/lavat.git"
 
+inherit git-r3
+
 LICENSE="MIT"
 SLOT="0"
 
