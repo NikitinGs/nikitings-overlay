@@ -2,7 +2,7 @@ EAPI=8
 
 DESCRIPTION="Little program that simulates a lava lamp in the terminal."
 HOMEPAGE="https://github.com/AngelJumbo/lavat"
-EGIT_REPO_URI="https://github.com/AngelJumbo/lavat.git"
+EGIT_REPO_URI="https://github.com/AngelJumbo/${PN}.git"
 
 inherit git-r3
 
